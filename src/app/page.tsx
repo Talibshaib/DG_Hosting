@@ -36,10 +36,10 @@ export default function Hero() {
       <div>
         <div className="relative flex gap-6 h-[500px] w-full flex-col items-center justify-center overflow-hidden bg-background px-6">
           <h2 className="z-10 whitespace-pre-wrap text-center text-5xl font-medium tracking-tighter text-black dark:text-white">
-            DG Hosting Experts: Your Reliable Hosting Partner
+            DM solution Hub: Your Reliable Partner
           </h2>
           <p className="text-center mx-auto max-w-[900px] opacity-60">
-            At DG Hosting Experts, we are dedicated to offering dependable and
+            At DM Solution Hub, we are dedicated to offering dependable and
             efficient VPS and mail hosting solutions tailored to meet your
             business demands. With a strong emphasis on security, performance,
             and 24/7 support, we ensure your digital infrastructure is stable,
