@@ -181,7 +181,7 @@ const Services = () => {
 
       <div className="flex justify-center mb-4">
         <HyperText
-          className="text-4xl font-bold text-black dark:text-white"
+          className="text-medium sm:text-4xl font-bold text-black dark:text-white"
           text="We provide a wide range of Services"
         />
       </div>

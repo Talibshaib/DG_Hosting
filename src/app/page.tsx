@@ -35,7 +35,7 @@ export default function Hero() {
       </div>
       <div>
         <div className="relative flex gap-6 h-[500px] w-full flex-col items-center justify-center overflow-hidden bg-background px-6">
-          <h2 className="z-10 whitespace-pre-wrap text-center text-5xl font-medium tracking-tighter text-black dark:text-white">
+          <h2 className="z-10 whitespace-pre-wrap text-center text-5xl font-medium tracking-tighter text-black dark:text-white mt-4 sm:mt-0">
             DM solution Hub: Your Reliable Partner
           </h2>
           <p className="text-center mx-auto max-w-[900px] opacity-60">
@@ -193,7 +193,8 @@ export default function Hero() {
                 >
                   <path d="M12 3c-4.963 0-9 4.037-9 9 0 3.986 2.977 7.322 6.812 8.729l-.022.271c0 .393.381.707.825.707h2.548c.444 0 .825-.314.825-.707l-.021-.271C18.023 19.322 21 15.986 21 12c0-4.963-4.037-9-9-9zm.5 15h-1v-1h1v1zm1.07-5.663l-.325.215v3.448h-1.49v-4.213l1.665-1.11c.554-.369.67-.767.67-1.122 0-.551-.449-1-1-1-.551 0-1 .449-1 1h-1c0-1.104.896-2 2-2s2 .896 2 2c0 .956-.6 1.522-1.52 2.003z" />
                 </svg>
-              </div>1
+              </div>
+              1
             </div>
             <h3 className="mt-4 text-xl font-bold">Advanced Technology</h3>
             <p className="mt-4 text-gray-400">
